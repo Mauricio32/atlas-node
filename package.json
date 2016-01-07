@@ -1,0 +1,23 @@
+{
+  "name": "atlas-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mauricio32/atlas-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mauricio32/atlas-node/issues"
+  },
+  "homepage": "https://github.com/Mauricio32/atlas-node#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "path": "^0.12.7"  
+  }
+}
